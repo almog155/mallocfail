@@ -1,1 +1,2 @@
-my_mallocfail
+# mallocfail
+makes malloc fail at different times when running a program. I don't know what else to say...
